@@ -1,9 +1,9 @@
 ---
-title: Capture The Fox
+title: Welcome!
 toc: false
 ---
 <br></br>
-Capture The Fox is a site where I share my findings in malware analysis, reverse engineering and cybersecurity to support my technical knowledge and development. 
+Capture The 🦊 is a site where I share my findings in malware analysis, reverse engineering, and cybersecurity to support my learning and professional development.
 
 ## Explore
 
