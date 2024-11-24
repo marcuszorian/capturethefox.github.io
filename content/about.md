@@ -3,4 +3,6 @@ title: About
 type: about
 ---
 
-This is the about page.
+## Credits
+- Website Framework: [Hugo](https://gohugo.io/) </li>
+- Website Theme: [Hextra](https://imfing.github.io/hextra/) </li>
