@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Capture The Fox
 
 # import hextra as module
 module:
@@ -36,11 +36,11 @@ menu:
       url: "https://github.com/imfing/hextra-starter-template"
       params:
         icon: github
-    - name: Twitter
+    - name: LinkedIn
       weight: 6
-      url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/marcus-zorian/"
       params:
-        icon: x-twitter
+        icon: linkedin
 
 params:
   navbar:
