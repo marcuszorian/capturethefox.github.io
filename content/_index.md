@@ -12,7 +12,3 @@ Capture The 🦊 is a site where I share my findings in malware analysis, revers
   {{< card link="about" title="About" icon="user" >}}
   {{< card link="blog" title="Blog" icon="user" >}}
 {{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
