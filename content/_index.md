@@ -3,8 +3,7 @@ title: Welcome!
 toc: false
 ---
 <br></br>
-Capture The 🦊 is a site where I share my findings in malware analysis, reverse engineering, and cybersecurity to support my learning and professional development.
-
+Capture The 🦊 is where I showcase my various networking, cybersecurity and coding projects to support my learning and share insights with others.
 ## Explore
 
 {{< cards >}}
